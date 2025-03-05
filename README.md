@@ -1,2 +1,2 @@
 # INFOMATION_JAVA
-JAVA 수업 내용 정리 REPO입니다.
+JAVA 수업 내용 기록
